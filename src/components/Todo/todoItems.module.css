@@ -1,0 +1,28 @@
+.item {
+    width: 500px;
+    color: #353935;
+}
+
+.itemName {
+    font-weight: bold;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.line {
+    border: 1px solid #f4f4f4;
+}
+
+.deleteBtn {
+    float: right;
+    padding: 12px 20px;
+    margin-top: -7px;
+    background-color: rgb(180, 141, 215);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
